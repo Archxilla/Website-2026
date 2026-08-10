@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Aug 2026 11:56:38 at https://www.archxilla.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.archxilla.com -O1 "C:\My Web Sites\Portfolio Site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:59:29	Error: 	"Not Found" (404) at link https://www.archxilla.com/dtb (from https://www.archxilla.com/about)
+11:59:33	Error: 	"Not Found" (404) at link https://www.archxilla.com/portfolio/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FaOBgYWVEUFw%3Flist%3DPLQupRoN9FnWCQ02R6tLHvTmnwB0Zo2EtY&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaOBgYWVEUFw&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube%22 (from https://www.archxilla.com/portfolio/riverton-mystery-club)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 55 seconds : 307 links scanned, 304 files written (123966770 bytes overall) [107831497 bytes received at 616179 bytes/sec], 23693932 bytes transferred using HTTP compression in 79 files, ratio 10%, 3.6 requests per connection
+(2 errors, 0 warnings, 0 messages)
